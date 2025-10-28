@@ -1,4 +1,4 @@
-# EGV-9B-9-Band-QRP-CW-Transceiver-Build-Modification
+# EGV-9B a 9 Band QRP CW Transceiver Build and Modification
 
 1. Summary
 
