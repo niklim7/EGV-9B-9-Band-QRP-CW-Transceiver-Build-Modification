@@ -51,13 +51,20 @@ An outdoor portable test is scheduled to validate its performance in a field env
 I had invaluable advice and support from my friends Theodoros (SV1SYM) and Tony (EI5EM). Thanks, guys!
 
 6. Photos
+![Image](https://github.com/user-attachments/assets/64d2cd1d-6308-4679-99df-9fd5a1e28074)
 
-Photo 1: The completed main PCB, showing component density and toroids.
+![Image](https://github.com/user-attachments/assets/47208bc0-0500-441e-b393-c59a0785c205)
 
-Photo 2: A close-up of the added modifications (Sotabeams filter, TX LED).
+![Image](https://github.com/user-attachments/assets/baf608ae-8856-4c3e-bb01-e891d9c8bdfd)
 
-Photo 3: The transceiver in its final case, powered on.
+![Image](https://github.com/user-attachments/assets/3e82bb7d-bad6-47fa-8ecf-5d1249c936a9)
+
+![Image](https://github.com/user-attachments/assets/50724d69-c5b3-46fb-9f51-178bdafd7e82)
+
+![Image](https://github.com/user-attachments/assets/7999d70b-d5b0-4f88-a052-ad5389ae24f0)
+
+![Image](https://github.com/user-attachments/assets/afc0e1e7-c2b7-483d-af1f-f7ee1c563118)
 
 Overall it was a lot of fun, I operate regularly using this rig both from home and portable.
 
-VY 73 de Nik SV1SYY
+73 de Nik SV1SYY
